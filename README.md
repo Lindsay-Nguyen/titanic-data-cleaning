@@ -1,15 +1,15 @@
 # titanic-data-cleaning
 “Data cleaning and exploratory analysis of Titanic dataset using Python, Pandas, Matplotlib, and Seaborn.”
-# 🛳️ Titanic Data Cleaning & Exploratory Data Analysis (EDA)
+# Titanic Data Cleaning & Exploratory Data Analysis (EDA)
 
-## 📌 Overview
+## Overview
 This project demonstrates how to clean a messy Titanic dataset and perform exploratory data analysis (EDA) using **Python, Pandas, Matplotlib, and Seaborn**.  
 The raw dataset included redundant columns (like `zero`, `zero.1`, etc.) and missing values in *Age* and *Embarked*.  
 After cleaning, I explored patterns in passenger survival rates across **gender, class, and age**.
 
 ---
 
-## 🔧 Skills & Tools
+## Skills & Tools
 - Python (Jupyter Notebook)  
 - Pandas (data wrangling)  
 - Matplotlib & Seaborn (data visualization)  
@@ -18,7 +18,7 @@ After cleaning, I explored patterns in passenger survival rates across **gender,
 
 ---
 
-## 🚀 Workflow
+## Workflow
 1. **Import & Inspect**: Loaded dataset, reviewed structure, and checked missing values.  
 2. **Data Cleaning**:  
    - Dropped unnecessary `zero` columns.  
@@ -33,7 +33,7 @@ After cleaning, I explored patterns in passenger survival rates across **gender,
 
 ---
 
-## 📊 Key Insights
+## Key Insights
 - Women had significantly higher survival rates than men.  
 - First-class passengers survived more often than third-class.  
 - Younger passengers (especially children) had better survival chances.  
